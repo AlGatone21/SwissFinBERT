@@ -14,6 +14,10 @@ This project explores the potential of Large Language Models (LLMs) to predict t
 - **Regression Analysis**: Scripts for performing multivariate OLS and panel regressions to analyze the relationship between sentiment indices and stock returns.
 - **Backtesting**: Code for backtesting a trading strategy based on the sentiment indices.
 
+## SwissFinBERT
+
+The finetuned SwissFinBERT model is available on Hugging Face: https://huggingface.co/AlGatone21/SwissFinBERT
+
 ## Important Note
 
 The texts of the articles used in this project will not be made public due to copyright reasons. Only the code and the methodology are shared in this repository.
